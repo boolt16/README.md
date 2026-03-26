@@ -1,15 +1,5 @@
 
-# Hey, me llamo zNocy15. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-- :telescope: Actualmente me encuentro desarrollando el proyecto "SXL-AC"
-- 😀 Me gusta Mizun17
-- 📭 Discord: !zXys#6666
-
-## SXL-AC/SXL STORE
-El SXL-AC es un anticheat desarrollado por zNoxy15 y yo lo cual estamos intentar bloquear todo tipo de cheats para FiveM,}
-por otro lado Sxl store es mi tienda de scripts donde vendemos scripts hechos por zNoxy15 y yo 
-
+# Hey, me llamo Bolt16. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [SXL-AC/SXL STORE](https://discord.gg/A94tsnqzxm)
 
